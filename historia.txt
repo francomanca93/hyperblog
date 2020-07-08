@@ -2,6 +2,8 @@ Esta es la historia de Franco Manca
 
 Franco Manca tiene 26 años y nacio en Argentina.
 
-francomanca93-test es un usuario para que Franco haga test. Este usuario nacio en internet.
+franc-man-test es un usuario como pac-man pero para que  haga test. Este usuario nacio en internet.
+
+franc-man-test contribuye a este proyecto open source.
 
 Mañana nos enfocaremos en su vida laboral.
